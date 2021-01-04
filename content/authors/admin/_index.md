@@ -22,9 +22,8 @@ bio: My interest is in social interaction and the cognitive mechanisms that enab
 interests:
 - Cognitive Science
 - Artificial Intelligence
-- Social Psychology
-- Behavioral Economics
-- Sociology
+- Cognitive and Social Psychology
+- Experimental Economics and Sociology
 
 # Education to show in About widget
 education:
@@ -70,8 +69,6 @@ highlight_name: false
 
 My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. Recently, I have worked on the interaction between high-level cognitive processes like reasoning and judgments  of ownership over objects and low-level sensorimotor ones like objects affordances both in individual and in social contexts. 
 
-I am interested to develop a common framework between the cognitive and the social sciences and I believe that game theory can provide the ideal toolbox. 
-
-I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructures of contemporary societies.
+I am interested to develop a common framework between the cognitive and the social sciences and I believe that game theory can provide the ideal toolbox. I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructures of contemporary societies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LucaTummolini_CV_eng.pdf" "newtab" >}}resumé{{< /staticref >}}.

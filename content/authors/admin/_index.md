@@ -74,4 +74,4 @@ I am interested to develop a common framework between the cognitive and the soci
 
 I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructures of contemporary societies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LucaTummolini_CV_eng" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LucaTummolini_CV_eng.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -10,9 +10,11 @@ role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Cognitive Sciences and Technologies (CNR)
+- name: Institute of Cognitive Sciences and Technologies (CNR, Italy)
   url: "https://www.istc.cnr.it/"
-
+- name: Institute for Future Studies (IFFS, Sweden)
+  url: "https://www.iffs.se/en"
+ 
 # Short bio (displayed in user profile at end of posts)
 bio: My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. 
 

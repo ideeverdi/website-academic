@@ -16,7 +16,7 @@ organizations:
   url: "https://www.iffs.se/en"
  
 # Short bio (displayed in user profile at end of posts)
-bio: He is senior researcher at the Institute of Cognitive Sciences and Technologies of the Italian Research Council in Rome and associated researcher at the Institute for Future Studies in Sweden. His research interest are on social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. He has published in philosophy, psychology, economics and computer science journals. He is the author of more than 50 articles and co-editors of three volumes.  
+bio: Senior researcher at the Institute of Cognitive Sciences and Technologies of the Italian Research Council in Rome and associated fellow at the Institute for Future Studies in Sweden. He is interested in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. He has published in philosophy, psychology, economics and computer science journals. He is the author of more than 50 articles and co-editors of three volumes.  
 
 # Interests to show in About widget
 interests:

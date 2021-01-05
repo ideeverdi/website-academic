@@ -67,7 +67,7 @@ email: "luca.tummolini@istc.cnr.it"
 highlight_name: false
 ---
 
-My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the mental representation of abstract concepts and words. 
+My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the mental representation of abstract concepts and words. These two interests converge in the study of ownership concepts and social norms. 
 
 In my work, I develop and test formal models (computational modelling, game theory) combining experimental methods spanning from cognitive psychology to experimental economics and sociology. 
 

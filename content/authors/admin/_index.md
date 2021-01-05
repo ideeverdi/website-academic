@@ -16,7 +16,7 @@ organizations:
   url: "https://www.iffs.se/en"
  
 # Short bio (displayed in user profile at end of posts)
-bio: My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the representation of abstract categories. These two interests converge in the study of ownership concepts and social norms.  
+bio: He is senior researcher at the Institute of Cognitive Sciences and Technologies of the Italian Research Council in Rome and associated researcher at the Institute for Future Studies in Sweden. His research interest are on social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. He has published in philosophy, psychology, economics and computer science journals. He is the author of more than 50 articles and co-editors of three volumes.  
 
 # Interests to show in About widget
 interests:

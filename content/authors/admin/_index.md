@@ -16,7 +16,7 @@ organizations:
   url: "https://www.iffs.se/en"
  
 # Short bio (displayed in user profile at end of posts)
-bio: My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. 
+bio: My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions.  
 
 # Interests to show in About widget
 interests:
@@ -67,8 +67,10 @@ email: "luca.tummolini@istc.cnr.it"
 highlight_name: false
 ---
 
-My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from shared deliberation in small groups to conformity with population-wide regularities like conventions and social norms. Recently, I have been working on the interaction between high-level cognitive processes like reasoning and judgments  of ownership over objects and low-level sensorimotor ones like objects affordances both in individual and in social contexts. 
+My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I have also worked on the mental representation of abstract concepts and words and how they are grounded in social interaction. 
 
-My broad aim is to develop a common framework between the cognitive and the social sciences and I believe that game theory can provide the ideal toolbox. I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructure of contemporary societies.
+In my work, I develops and test formal models (game theory, computational modelling) combining experimental methods spanning from cognitive psychology to experimental economics and sociology. 
+
+My broad aim is to develop a common unified framework between the cognitive and the social sciences. I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructure of contemporary societies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LucaTummolini_CV_eng.pdf" "newtab" >}}resumé{{< /staticref >}}.

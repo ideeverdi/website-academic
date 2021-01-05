@@ -16,7 +16,7 @@ organizations:
   url: "https://www.iffs.se/en"
  
 # Short bio (displayed in user profile at end of posts)
-bio: My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the represenation of abstract concepts and words.  
+bio: My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the representation of abstract categories. These two interests converge in the study of ownership concepts and social norms.  
 
 # Interests to show in About widget
 interests:

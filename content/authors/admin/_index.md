@@ -69,7 +69,7 @@ highlight_name: false
 
 My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I have also worked on the mental representation of abstract concepts and words and how they are grounded in social interaction. 
 
-In my work, I develops and test formal models (game theory, computational modelling) combining experimental methods spanning from cognitive psychology to experimental economics and sociology. 
+In my work, I develop and test formal models (game theory, computational modelling) combining experimental methods spanning from cognitive psychology to experimental economics and sociology. 
 
 My broad aim is to develop a common unified framework between the cognitive and the social sciences. I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructure of contemporary societies.
 

@@ -20,8 +20,7 @@ bio: Senior researcher at the Institute of Cognitive Sciences and Technologies o
 
 # Interests to show in About widget
 interests:
-- Cognitive Science
-- Artificial Intelligence
+- Cognitive Science and Artificial Intelligence
 - Cognitive and Social Psychology
 - Experimental Economics and Sociology
 
@@ -48,7 +47,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=jeDr4mcAAAAJ&view_op=list_works&sortby=pubdate
 - icon: osf
   icon_pack: ai
-  link: osf.io/4hkdc
+  link: https://osf.io/4hkdc/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7791-0457

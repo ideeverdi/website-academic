@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Grounding concepts in metacognitive experiences - a neurocomputational approach
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: New Perspectives on Abstract Concepts
+event_url: https://sites.google.com/view/annaborghilab/conference?authuser=0
 
-location: Wowchemy HQ
+location: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ""
+  city: ""
+  region: ""
+  postcode: ''
+  country: ""
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: In this talk I will present the conjecture that metacognitive experiences can be used to ground the meaning of abstract concepts. 
+abstract: "In this talk I will present the conjecture that metacognitive experiences can be used to ground the meaning of abstract concepts. Although this possibility has been suggested before, no process model has been proposed to clarify how these grounded concepts might originate, how they might be learned, and how they can be expressed in on line processing. In my talk, I will present a neurocomputational model of abstract categorization in which metacognitive signals of competence improvement are used to form a new abstract category starting from concrete sensorimotor experiences. To this end I will explore the specific case of possessory concepts. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-03-17T13:00:00Z"
+date_end: "2021-03-17T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -38,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/ideeverdi
 url_code: ""
 url_pdf: ""
 url_slides: ""

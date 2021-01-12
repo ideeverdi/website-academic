@@ -3,7 +3,7 @@ title: Grounding possessory concepts in the sense of control
 summary: Possession and ownership originate in interaction with the physical and social world.
 tags:
 - Possession and Ownership
-date: "2021-01-27T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -13,7 +13,7 @@ address:
   country: ""
 
 summary: In this talk I will present the conjecture that metacognitive experiences can be used to ground the meaning of abstract concepts. 
-abstract: "In this talk I will present the conjecture that metacognitive experiences can be used to ground the meaning of abstract concepts. Although this possibility has been suggested before, no process model has been proposed to clarify how these grounded concepts might originate, how they might be learned, and how they can be expressed in on line processing. In my talk, I will present a neurocomputational model of abstract categorization in which metacognitive signals of competence improvement are used to form a new abstract category starting from concrete sensorimotor experiences. To this end I will explore the specific case of possessory concepts. "
+abstract: "In this talk I will present the conjecture that metacognitive experiences can be used to ground the meaning of abstract concepts. Although this possibility has been suggested before, no process model has been proposed to clarify how these grounded concepts might originate, how they might be learned, and how they can be expressed in on line processing. I will discuss a neurocomputational model of abstract categorization in which metacognitive signals of competence improvement are used to form a new abstract category starting from concrete sensorimotor experiences. To this end I will explore the specific case of possessory concepts. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -1,19 +1,18 @@
 ---
-title: "An example conference paper"
+title: "Theme issue ‘Varieties of abstract concepts: development, use and representation in the brain’ compiled and edited by Anna M. Borghi, Laura Barca, Ferdinand Binkofski and Luca Tummolini"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2018-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +25,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Philosophical Transactions of the Royal Society B*
+publication_short: In *Phil Trans B*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The capacity for abstract thought is one of the hallmarks of human cognition. However, the mechanisms underlying the ability to form and use abstract concepts like "fantasy" and "grace" have not yet been elucidated. This theme brings together developmental, social and cognitive psychologists, linguists, anthropologists, cognitive scientists, neuroscientists, philosophers, computer scientists and roboticists, to present theoretical insights and novel evidence on how abstract concepts are acquired, used and represented in the brain. Many of the contributions conceive of concepts as grounded in sensorimotor systems and constrained by bodily mechanisms and structures. The theme develops along two axes, related to the most promising research directions on abstract concepts. The axes focus on 1) the different kinds of abstract concepts (numbers, emotions, moral and aesthetic concepts, social concepts); 2) the role played by perception/action, language, sociality, emotions, and interoception in grounding abstract concepts. Most papers adopt a cognitive science / neuroscience approach, but the theme includes also studies on development, on social cognition, and on how linguistic diversity shapes abstract concepts. Overall, the theme provides an integrated theoretical account that highlights the importance of language, sociality, and emotions for abstract concepts, and that offers new methodological tools to investigate them.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This theme brings together developmental, social and cognitive psychologists, linguists, anthropologists, cognitive scientists, neuroscientists, philosophers, computer scientists and roboticists, to present theoretical insights and novel evidence on how abstract concepts are acquired, used and represented in the brain. 
 
 tags: []
 

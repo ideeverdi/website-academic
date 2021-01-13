@@ -66,10 +66,10 @@ email: "luca.tummolini@istc.cnr.it"
 highlight_name: false
 ---
 
-My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the mental representation of abstract concepts and words. These two interests converge in the study of ownership concepts and social norms. 
+My interest is in social interaction and the cognitive mechanisms that enable humans to flexibly coordinate and collaborate with one another, from simple joint actions in small groups to population-level regularities sustained by norms and institutions. Adopting an embodied approach to cognition, I am also interested in how social interaction can ground the mental representation of abstract categories. These two interests converge in the study of ownership of property, from how ownership is mentally represneted to how norms regulating conflicts arise and persist. 
 
 In my work, I develop and test formal models (computational modelling, game theory) combining experimental methods spanning from cognitive psychology to experimental economics and sociology. 
 
-Ultimately, I aim to contribute to the development of a common unified framework between the cognitive and the social sciences. I am also interested in exploring how the most recent advancements in the cognitive and social sciences can support the design of the new digital infrastructure of contemporary societies.
+Ultimately, I aspire to contribute to the development of a common unified framework between the cognitive and the social sciences. I am also interested in exploring the consequences of these studies for the design of the new digital infrastructure of contemporary societies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LucaTummolini_CV_eng.pdf" "newtab" >}}resumé{{< /staticref >}}.

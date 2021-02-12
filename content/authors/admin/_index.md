@@ -70,6 +70,6 @@ My interest is in social interaction and the cognitive mechanisms that enable hu
 
 In my work, I develop and test formal models (computational modelling, game theory) combining experimental methods spanning from cognitive psychology to experimental economics and sociology. 
 
-Ultimately, I aspire to contribute to the development of a common unified framework between the cognitive and the social sciences. I am also interested in exploring the consequences of these studies for the design of the new digital infrastructure of contemporary societies.
+Ultimately, I aspire to contribute to a common unified framework between the cognitive and the social sciences. I am also interested in exploring the consequences of these studies for the design of the new digital infrastructure of contemporary societies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/LucaTummolini_CV_eng.pdf" "newtab" >}}resumé{{< /staticref >}}.
